@@ -1,4 +1,4 @@
-import React from 'react'
+
 import SlideBar from './SlideBar'
 import { useLocation } from 'react-router-dom'
 const PaymentDetail = () => {

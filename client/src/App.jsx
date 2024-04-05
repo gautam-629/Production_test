@@ -143,12 +143,12 @@ const App = () => {
             </AdminProtectedProtectedRoute>
           }
           />
-          <Route path='/paymentdetail' element={
+          {/* <Route path='/paymentdetail' element={
             <AdminProtectedProtectedRoute>
               <PaymentDetail />
             </AdminProtectedProtectedRoute>
           }
-          />
+          /> */}
           <Route path='/adminuserdetail' element={
             <AdminProtectedProtectedRoute>
               <UserDetail />

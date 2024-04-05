@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import SlideBar from "./SlideBar";
 import { useNavigate } from "react-router-dom";
 import { getHiredList } from "../http/admin";
