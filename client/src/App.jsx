@@ -23,8 +23,6 @@ import Dashboard from './Admin/Dashboard';
 import Users from './Admin/Users';
 import UpdateUser from './Admin/UpdateUser';
 import HiredUser from './Admin/HiredUser';
-import PaymentDetail from './Admin/paymentDetail';
-
 import { Elements } from '@stripe/react-stripe-js'
 import { loadStripe } from '@stripe/stripe-js'
 import Payment from './pages/payment/Payment';
